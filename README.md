@@ -8,6 +8,9 @@ what the file said that day.
 [table.md](table.md) has the quotes, the counts, the date each rule first appeared and a few side notes.
 [verify.py](verify.py) checks every quote against the file it links to.
 
+The write-up: [What 30 open-source projects ask of AI-assisted contributions](https://allkeep.org/en/lab/ai-contribution-rules),
+with the figures and what happened to the contributions I sent that week.
+
 ## Counts
 
 19 of the 30 have a rule about AI in contributions. Two are borderline and not counted, and nine have none.
